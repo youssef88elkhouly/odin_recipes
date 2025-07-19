@@ -12,3 +12,5 @@ h3 for the ingredients and steps titles
 For the ingredients I used an unordered list and for the steps I used an ordered list
 
 I also made numbers in bold using strong tag
+
+I made the dimensions for the images 310x310
