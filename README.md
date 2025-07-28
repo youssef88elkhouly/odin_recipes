@@ -14,3 +14,7 @@ For the ingredients I used an unordered list and for the steps I used an ordered
 I also made numbers in bold using strong tag
 
 I made the dimensions for the images 310x310
+
+I added css I used borders, margins, padding, color, background color, and I also added a background for the whole page
+
+I used classes and id's in the css
